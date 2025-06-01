@@ -1,0 +1,535 @@
+FRSID,Comments,UID,Facility Name,Owner,City,County,State,Zipcode,Standard,Type of Facility,Congressional District
+10000379554,,1489,Carmeuse Lime Black River Operation,"Carmeuse Lime & Stone, Inc.",Butler,Pendleton,KY,41006,Lime Rule,Lime Manufacturing,KY4
+10006011680,,1164,Jeffrey Energy Center,"Evergy Kansas Central, Inc",Saint Marys,Pottawatomie,KS,66536,MATS,Coal Power Plant,KS1
+10021034780,,1001,Parter Medical Products Inc,,Carson,Los Angeles,CA,90746,Sterilizer Rule,Commercial Sterilizer,CA44
+10025404417,,1392,Celanese Ltd Enoree Plant,,Enoree,Spartanburg County,SC,29335,HON Rule,Chemical Manufacturing,SC4
+10070827758,,1317,Total Petrochemicals & Refining Usa Inc-Carville Polystyrene Plant,,Carville,Iberville Parish,LA,70721,HON Rule,Chemical Manufacturing,LA2
+10070828281,,1352,Blue Cube Operations Llc - Plaquemine Site,,Plaquemine,IBERVILLE,LA,70765,HON Rule,Chemical Manufacturing,LA2
+11006716013,Diff. Zipcode,1140,Muskogee,Oklahoma Gas & Electric Co,Muskogee,Muskogee,OK,74403,MATS,Coal Power Plant,OK2
+110000316417,,1021,Covidien Lp,,North Haven,New Haven,CT,6473,Sterilizer Rule,Commercial Sterilizer,CT3
+110000324382,,1373,Si Group Inc - Rotterdam Junct Facil,,Rotterdam Junction,Schenectady County,NY,12150,HON Rule,Chemical Manufacturing,NY20
+110000330632,Diff. Name,1216,Ebensburg Power,Ebensburg Power Co,Ebensburg,Cambria,PA,15931,MATS,Coal Power Plant,PA13
+110000332015,,1060,Cosmed Group Llc/Erie,,Erie,Erie,PA,16510,Sterilizer Rule,Commercial Sterilizer,PA16
+110000334745,,1059,B Braun Med Inc/Allentown,,Allentown,Lehigh,PA,18109,Sterilizer Rule,Commercial Sterilizer,PA7
+110000339269,,1042,"Elite Spice, Inc.",,Jessup,Howard,MD,20794,Sterilizer Rule,Commercial Sterilizer,MD3
+110000341862,,1080,Sterilization Services Of Virginia,,Richmond,Richmond city,VA,23231,Sterilizer Rule,Commercial Sterilizer,VA4
+110000344182,,1483,Dupont (Belle Site) / Chemours,,Belle,Kanawha,WV,25015,HON Rule,Chemical Manufacturing,WV1
+110000349720,,1046,"Sterigenics Us, Llc",,Charlotte,Mecklenburg,NC,28278,Sterilizer Rule,Commercial Sterilizer,CA35
+110000349784,,1259,The Goodyear Tire & Rubber Company,,Fayetteville,Cumberland,NC,28311,Rubber Tire Rule,Rubber Processing,NC7
+110000351397,,1134,Marshall,"Duke Energy Carolinas, LLC",Terrell,Catawba,NC,28682,MATS,Coal Power Plant,NC10
+110000352706,,1069,Steris-Isomedix Services,,Spartanburg,Spartanburg,SC,29306,Sterilizer Rule,Commercial Sterilizer,SC4
+110000353457,,1187,Winyah,South Carolina Public Service Authority,Georgetown,Georgetown,SC,29440,MATS,Coal Power Plant,SC7
+110000353509,,1143,Williams,"South Carolina Genertg Co, Inc",Goose Creek,Berkeley,SC,29445,MATS,Coal Power Plant,SC1
+110000353705,Diff. Name,1394,Bp Amoco Chemical,,Wando,Berkeley,SC,29492,HON Rule,Chemical Manufacturing,SC1
+110000355963,,1027,Sterigenics U.S. Llc,,Atlanta,Cobb,GA,30339,Sterilizer Rule,Commercial Sterilizer,GA6
+110000356356,Diff. County,1103,Bowen,Georgia Power Co,Cartersville,Bartow,GA,30120,MATS,Coal Power Plant,GA11
+110000357827,,1031,Sterilization Services Of Georgia,,Atlanta,Fulton,GA,30336,Sterilizer Rule,Commercial Sterilizer,GA6
+110000366817,,1524,"Drummond Company, Inc. (Abc Coke)",ABC COKE,Birmingham,Jefferson,AL,35217,Coke Ovens Rule,Coke Ovens,AL7
+110000367013,,1269,Akzo Nobel Functional Chemicals Llc,,Axis,Mobile County,AL,36505,HON Rule,Chemical Manufacturing,AL1
+110000367567,,1272,3M Company,,Decatur,Morgan County,AL,35601,HON Rule,Chemical Manufacturing,AL5
+110000374121,,1071,Sterilization Services Of Tennessee,,Memphis,Shelby,TN,38109,Sterilizer Rule,Commercial Sterilizer,TN9
+110000377084,,1364,Zeon Chemicals L P,,Hattiesburg,Forrest,MS,39401,HON Rule,Chemical Manufacturing,MS4
+110000377477,,1365,"Chevron Products Co, Pascagoula Refinery",,Pascagoula,Jackson County,MS,39581,HON Rule,Chemical Manufacturing,MS4
+110000377814,Specific Name not found,1165,Trimble County,Louisville Gas & Electric Co,Bedford,Trimble,KY,40006,MATS,Coal Power Plant,KY4
+110000377976,Diff. Zipcode,1299,Monument Chemical Kentucky Llc / Arch Chemicals,,Brandenburg,Meade County,KY,40229,HON Rule,Chemical Manufacturing,KY2
+110000378494,Diff. Name ,1306,"Chemours, Co. (Formerly E I Du Pont De Nemours & Co.)",,Louisville,Jefferson County,KY,40216,HON Rule,Chemical Manufacturing,KY3
+110000378546,,1307,American Synthetic Rubber Co,,Louisville,Jefferson County,KY,40216,HON Rule,Chemical Manufacturing,KY3
+110000378733,,1115,Mill Creek,Louisville Gas & Electric Co,Louisville,Jefferson,KY,40272,MATS,Coal Power Plant,KY3
+110000380061,,1302,Arkema Inc,,Calvert City,Marshall County,KY,42029,HON Rule,Chemical Manufacturing,KY1
+110000384325,,1139,Firstenergy Bay Shore,"Walleye Power, LLC",Oregon,Lucas,OH,43616,MATS,Coal Power Plant,OH9
+110000386001,Diff. Name ,1386,Arvesta Corp,,Perry,Lake,OH,44081,HON Rule,Chemical Manufacturing,OH14
+110000389213,,1377,"Huntsman Advanced Materials Americas, Llc (Formerly Emerald Polymer Additives, Llc)",,Akron,Summit,OH,44301,HON Rule,Chemical Manufacturing,OH13
+110000392557,,1251,Middletown Works,Cleveland-Cliffs Inc.,Middletown,Butler,OH,45043,Iron and Steel Rule,Steel Production from Iron Ore,OH8
+110000393324,,1379,"Pmc Specialties Group, Inc. (Formerly Cincinnati Specialities)",,Cincinnati,Hamilton County,OH,45217,HON Rule,Chemical Manufacturing,OH1
+110000395162,,1138,Kyger Creek,Ohio Valley Electric Corp,Cheshire,Gallia,OH,45620,MATS,Coal Power Plant,OH2
+110000395475,,1381,Lima Refining Company,,Lima,Allen County,OH,45804,HON Rule,Chemical Manufacturing,OH4
+110000402314,,1106,Clifty Creek,Indiana-Kentucky Electric Corp,Madison,Jefferson,IN,47250,MATS,Coal Power Plant,IN9
+110000403670,,1296,"Sabic Innovative Plastics Mt Vernon, Llc",,Mount Vernon,Posey County,IN,47620,HON Rule,Chemical Manufacturing,IN8
+110000404296,,1295,Evonik Corporation - Tippecanoe Laboratories,,Lafayette,Tippecanoe County,IN,47909,HON Rule,Chemical Manufacturing,IN4
+110000404349,,1107,Cayuga,"Duke Energy Indiana, LLC",Cayuga,Vermillion,IN,47928,MATS,Coal Power Plant,IN8
+110000405927,,1119,Monroe,DTE Electric Company,Monroe,Monroe,MI,48161,MATS,Coal Power Plant,MI5
+110000412964,,1258,Titan Tire,,Des Moines,Polk,IA,50316,Rubber Tire Rule,Rubber Processing,IA3
+110000414114,,1203,George Neal South,MidAmerican Energy Co,Salix,Woodbury,IA,51052,MATS,Coal Power Plant,IA4
+110000415783,,1194,Louisa,MidAmerican Energy Co,Muscatine,Louisa,IA,52761,MATS,Coal Power Plant,IA1
+110000421552,,1505,Graymont Western Lime Green Bay,Graymont Western Lime Inc.,Green Bay,Brown,WI,54303,Lime Rule,Lime Manufacturing,WI8
+110000423667,,1362,3M Cottage Grove Center - 3M - Cottage Grove - Materials Resource Division,,Cottage Grove,Washington,MN,55016,HON Rule,Chemical Manufacturing,MN2
+110000424309,,1012,Cardiac Pacemakers Inc/Boston Scientific,,Arden Hills,Ramsey,MN,55112,Sterilizer Rule,Commercial Sterilizer,MN4
+110000424700,,1168,Sherburne County,Northern States Power Co - Minnesota,Becker,Sherburne,MN,55308,MATS,Coal Power Plant,MN6
+110000427565,,1070,3M Company,,Brookings,Brookings,SD,57006,Sterilizer Rule,Commercial Sterilizer,SD0
+110000428378,,1238,Spiritwood Station,Great River Energy,Spiritwood,Stutsman,ND,58481,MATS,Coal Power Plant,ND0
+110000428387,,1136,Milton R Young,"Minnkota Power Coop, Inc",Center,Oliver,ND,58530,MATS,Coal Power Plant,ND0
+110000428573,,1367,Hexion Inc,,Missoula,Missoula County,MT,59808,HON Rule,Chemical Manufacturing,MT1
+110000432504,,1289,Stepan Co,,Elwood,Will County,IL,60421,HON Rule,Chemical Manufacturing,IL1
+110000438884,Zip doesn't match,1293,Afton Chemical (Formerly Ethyl Petroleum Additives Inc.),,Sauget,St. Clair County,IL,62206,HON Rule,Chemical Manufacturing,IL13
+110000442021,,1363,"Ashland, Inc. - Missouri Chemical Works",,Louisiana,Pike County,MO,63353,HON Rule,Chemical Manufacturing,MO6
+110000442548,,1197,Sikeston Power Station,City of Sikeston - (MO),Sikeston,Scott,MO,63801,MATS,Coal Power Plant,MO8
+110000447785,,1128,Sheldon,Nebraska Public Power District,Hallam,Lancaster,NE,68368,MATS,Coal Power Plant,NE1
+110000449765,,1321,Lion Copolymer Geismar Llc - Geismar Facility,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110000449970,,1312,Exxonmobil Baton Rouge Chemical Plant,,Baton Rouge,East Baton Rouge Parish,LA,70805,HON Rule,Chemical Manufacturing,LA6
+110000450002,,1310,Deltech Corporation,,Baton Rouge,East Baton Rouge Par,LA,70807,HON Rule,Chemical Manufacturing,LA6
+110000450100,,1311,Eco Services Operations Llc - Sulfuric Acid Plant / Solvay Usa Inc - Cathyval Plant / Rhodia,,Baton Rouge,East Baton Rouge Parish,LA,70805,HON Rule,Chemical Manufacturing,LA6
+110000450627,,1182,Brame Energy Center,Cleco Power LLC,Lena,Rapides,LA,71447,MATS,Coal Power Plant,LA6
+110000450921,,1277,Georgia Pacific Chemicals,,Crossett,Ashley County,AR,71635,HON Rule,Chemical Manufacturing,AR4
+110000451083,,1278,Great Lakes Chemical - South Plant,,El Dorado,Union County,AR,71730,HON Rule,Chemical Manufacturing,AR4
+110000452705,,1193,Independence Steam Electric Station,Entergy Arkansas LLC,Newark,Independence,AR,72562,MATS,Coal Power Plant,AR1
+110000452910,,1174,Flint Creek,Southwestern Electric Power Co,Gentry,Benton,AR,72734,MATS,Coal Power Plant,AR3
+110000454197,,1256,Michelin N America Inc / Ardmore Tire Plant,,Ardmore,Carter,OK,73401,Rubber Tire Rule,Rubber Processing,OK4
+110000454231,,1261,Goodyear Tire And Rubber Co / Goodyear Lawton,,Lawton,Comanche,OK,73505,Rubber Tire Rule,Rubber Processing,OK4
+110000458095,,1265,Cooper Tire & Rubber Company,,Texarkana,Miller,AR,71854,Rubber Tire Rule,Rubber Processing,AR4
+110000460661,,1079,"Ethicon, Inc.",,San Angelo,Tom Green,TX,76905,Sterilizer Rule,Commercial Sterilizer,TX11
+110000460901,,1431,Eco Services Operations Aka Rhodia Aka Solvay,,Houston,Harris County,TX,77012,HON Rule,Chemical Manufacturing,TX29
+110000462623,,1441,Ineos Americas Pasadena Site,,Pasadena,Harris County,TX,77503,HON Rule,Chemical Manufacturing,TX36
+110000462856,,1439,The Goodyear Tire & Rubber Co Bayport Chemical Plant,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110000462909,,1438,Ineos Styrolution America Bayport Facility,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110000463007,,1436,Lyondell Chemical Bayport Choate Plant,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110000463098,,1409,Covestro Industrial Park Baytown Aka Bayer Material Science,,Baytown,Chambers,TX,77523,HON Rule,Chemical Manufacturing,TX36
+110000463178,,1420,Exxon Mobil Baytown Refinery,,Baytown,Harris County,TX,77520,HON Rule,Chemical Manufacturing,TX36
+110000463212,,1424,Equistar Chemicals Channelview Complex,,Channelview,Harris County,TX,77530,HON Rule,Chemical Manufacturing,TX2
+110000463221,,1423,Lyondell Chemical Channelview,,Channelview,Harris County,TX,77530,HON Rule,Chemical Manufacturing,TX2
+110000463365,Diff. Zipcode,1417,Clean Harbors Deer Park,,La Porte,Harris,TX,77536,HON Rule,Chemical Manufacturing,TX36
+110000463597,,1434,Lyondellbasell Acetyls,,La Porte,Harris County,TX,77571,HON Rule,Chemical Manufacturing,TX36
+110000463917,Diff. name ,1448,Lucite Beaumont Site,,Nederland,Jefferson,TX,77627,HON Rule,Chemical Manufacturing,TX14
+110000464006,,1454,Port Arthur Refinery,,Port Arthur,Jefferson County,TX,77640,HON Rule,Chemical Manufacturing,TX14
+110000464426,,1181,San Miguel,"San Miguel Electric Coop, Inc",Christine,Atascosa,TX,78012,MATS,Coal Power Plant,TX28
+110000464462,,1461,Diamond Shamrock Corp (Three Rivers Refinery) / Valero,,Three Rivers,Live Oak,TX,78071,HON Rule,Chemical Manufacturing,TX15
+110000465069,,1465,Equistar Chemicals (Oxychem),,Corpus Christi,Nueces,TX,78410,HON Rule,Chemical Manufacturing,TX27
+110000465620,,1179,Fayette Power Project,Lower Colorado River Authority,La Grange,Fayette,TX,78945,MATS,Coal Power Plant,TX10
+110000466488,,1017,Livanova,,Arvada,Jefferson,CO,80004,Sterilizer Rule,Commercial Sterilizer,CO7
+110000467646,,1209,Ray D Nixon,City of Colorado Springs - (CO),Fountain,El Paso,CO,80817,MATS,Coal Power Plant,CO5
+110000467851,,1098,Comanche,Public Service Co of Colorado,Pueblo,Pueblo,CO,81006,MATS,Coal Power Plant,CO3
+110000468075,,1185,Laramie River Station,Basin Electric Power Coop,Wheatland,Platte,WY,82201,MATS,Coal Power Plant,WY0
+110000470008,,1223,Sunnyside Cogen Associates,Sunnyside Cogeneration Assoc,Sunnyside,Carbon,UT,84539,MATS,Coal Power Plant,UT3
+110000472541,Diff. name,1052,"Sterigenics-Santa Teresa, Nm",,Santa Teresa,Dona Ana,NM,88008,Sterilizer Rule,Commercial Sterilizer,NM2
+110000472925,,1054,"Elite Spice, Inc.",,Sparks,Washoe,NV,89431,Sterilizer Rule,Commercial Sterilizer,MD3
+110000479740,,1016,"Steris, Inc.",,Temecula,Riverside,CA,92590,Sterilizer Rule,Commercial Sterilizer,CA48
+110000490816,,1482,Emerald Kalama Chemical Llc,,Kalama,Cowlitz County,WA,98625,HON Rule,Chemical Manufacturing,WA3
+110000493127,,1144,Cumberland,Tennessee Valley Authority,Cumberland City,Stewart,TN,37050,MATS,Coal Power Plant,TN7
+110000493136,Diff. Name ,1145,Gallatin,Tennessee Valley Authority,Gallatin,Sumner,TN,37066,MATS,Coal Power Plant,TN6
+110000494563,,1159,Coal Creek,Rainbow Energy Center,Underwood,McLean,ND,58576,MATS,Coal Power Plant,ND0
+110000499050,,1427,Geo Specialty Chemical,,La Porte / Deer Park,Harris County,TX,77536,HON Rule,Chemical Manufacturing,TX36
+110000499425,,1056,Sterigenics Us Llc,,Queensbury,Washington,NY,12804,Sterilizer Rule,Commercial Sterilizer,NY21
+110000502867,,1406,Ineos Green Lake Plant,,Port Lavaca,Calhoun,TX,77979,HON Rule,Chemical Manufacturing,TX27
+110000504801,,1460,Port Neches Operations C4 Plant,,Port Neches,Jefferson County,TX,77651,HON Rule,Chemical Manufacturing,TX14
+110000504918,Diff. Name,1470,Fhr Corpus Christi West Plant,,Corpus Christi,Nueces County,TX,78412,HON Rule,Chemical Manufacturing,TX27
+110000505640,,1469,Citgo Corpus Christi Refinery East Plant,,Corpus Christi,Nueces County,TX,78407,HON Rule,Chemical Manufacturing,TX27
+110000506079,Diff. name ,1442,Equistar Bayport Underwood Plant,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110000551055,,1218,Aes Warrior Run Cogeneration Facility,AES WR Ltd Partnership,Cumberland,Allegany,MD,21502,MATS,Coal Power Plant,MD6
+110000572675,,1341,Shintech Louisiana Llc - Shintech Plaquemine Plant,,Plaquemine,Iberville Parish,LA,70764,HON Rule,Chemical Manufacturing,LA2
+110000574423,,1396,"Eastman Chemical Company, Tennessee Operations",,Kingsport,Sullivan County,TN,37660,HON Rule,Chemical Manufacturing,TN1
+110000586027,Diff. Name,1484,"Koppers Inc., Follansbee",,Follansbee,Brooke County,WV,26037,HON Rule,Chemical Manufacturing,WV2
+110000588301,,1285,Georgia-Pacific Chemicals Llc,,Vienna,Dooly,GA,31092,HON Rule,Chemical Manufacturing,GA2
+110000592662,,1108,Whitewater Valley,City of Richmond - (IN),Richmond,Wayne,IN,47374,MATS,Coal Power Plant,IN6
+110000593910,,1504,Graymont Western Lime Eden,Graymont Western Lime Inc,Eden,Fond Du Lac,WI,53019,Lime Rule,Lime Manufacturing,WI6
+110000595099,,1135,Leland Olds,Basin Electric Power Coop,Stanton,Mercer,ND,58571,MATS,Coal Power Plant,ND0
+110000596533,,1536,Goodyear Tire & Rubber,,Topeka,Shawnee,KS,66608,Rubber Tire Rule,Rubber Processing,KS2
+110000597131,,1332,Dupont Specialty Products Usa Llc - Pontchartrain Site,,Laplace,St. John the Baptist Parish,LA,70068,HON Rule,Chemical Manufacturing,LA2
+110000597319,,1318,Cos-Mar Styrene Monomer Plant (Formerly Total Petrochemicals & Refining Usa Inc - Cos-Mar Co),,Carville,Iberville Parish,LA,70721,HON Rule,Chemical Manufacturing,LA2
+110000597373,,1329,Rubicon Llc - Geismar Plant,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110000597444,,1314,Formosa Plastics Corp Louisiana,,Baton Rouge,East Baton Rouge Parish,LA,70805,HON Rule,Chemical Manufacturing,LA6
+110000597676,Has two plants at the same location (west and south w/ diff. IDS),1279,Albemarle Corporation,,Magnolia,Columbia,AR,71753,HON Rule,Chemical Manufacturing,AR4
+110000598489,,1096,Grec,Grand River Dam Authority,Chouteau,Mayes,OK,74337,MATS,Coal Power Plant,OK2
+110000598611,,1169,Sooner,Oklahoma Gas & Electric Co,Red Rock,Noble,OK,74651,MATS,Coal Power Plant,OK3
+110000599567,,1459,Indorama (Formerly Huntsman Port Neches),,Port Neches,Jefferson County,TX,77651,HON Rule,Chemical Manufacturing,TX14
+110000600056,,1183,Tolk,Southwestern Public Service Co,Sudan,Lamb,TX,79371,MATS,Coal Power Plant,TX19
+110000600608,,1176,Hunter,PacifiCorp,Castle Dale,Emery,UT,84513,MATS,Coal Power Plant,UT3
+110000600788,,1211,Springerville,Tucson Electric Power Co,Springerville,Apache,AZ,85938,MATS,Coal Power Plant,AZ2
+110000601867,,1481,Us Army - Raap,,Radford,Montgomery County,VA,24141,HON Rule,Chemical Manufacturing,VA9
+110000602820,,1067,"Steri-Tech, Inc.",,Salinas,Salinas,PR,751,Sterilizer Rule,Commercial Sterilizer,PR98
+110000604141,Diff. City,1205,Belews Creek,"Duke Energy Carolinas, LLC",Belews Creek,Stokes,NC,27009,MATS,Coal Power Plant,NC5
+110000605426,,1137,Cardinal,Cardinal Operating Company,Brilliant,Jefferson,OH,43913,MATS,Coal Power Plant,OH6
+110000606522,,1167,Gerald Gentleman,Nebraska Public Power District,Sutherland,Lincoln,NE,69165,MATS,Coal Power Plant,NE3
+110000607148,,1196,Rawhide,Platte River Power Authority,Wellington,Larimer,CO,80549,MATS,Coal Power Plant,CO2
+110000607558,,1247,Burns Harbor Works,Cleveland-Cliffs Inc.,Burns Harbor,Porter,IN,46304,Iron and Steel Rule,Steel Production from Iron Ore,IN1
+110000607558,,1526,Cleveland-Cliffs Burns Harbor Llc,Cleveland-Cliffs,Burns Harbor,Porter,IN,46304,Coke Ovens Rule,Coke Ovens,IN1
+110000608236,Diff. City,1198,Hugo,"Western Farmers Elec Coop, Inc",Sawyer,Choctaw,OK,74756,MATS,Coal Power Plant,OK2
+110000608245,,1097,Limestone,NRG Texas Power LLC,Jewett,Limestone,TX,75846,MATS,Coal Power Plant,TX17
+110000608254,,1146,W A Parish,NRG Texas Power LLC,Richmond,Fort Bend,TX,77469,MATS,Coal Power Plant,TX22
+110000613747,,1340,Axiall Llc - Plaquemine Facility,,Plaquemine,Iberville Parish,LA,70764,HON Rule,Chemical Manufacturing,LA2
+110000620221,Diff. Name,1479,Advansix (Formerly Honeywell Resins And Chemicals Llc -Hopewell),,Hopewell,Hopewell city City,VA,23860,HON Rule,Chemical Manufacturing,VA4
+110000717877,,1199,D B Wilson,Big Rivers Electric Corp,Centertown,Ohio,KY,42328,MATS,Coal Power Plant,KY2
+110000741270,,1089,Barry,Alabama Power Co,Mount Vernon,Mobile,AL,36560,MATS,Coal Power Plant,AL1
+110000743394,,1325,Shell Chemical Lp - Geismar Plant,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110000743599,,1010,Baxter Healthcare Corporation,,Mountain Home,Baxter,AR,72653,Sterilizer Rule,Commercial Sterilizer,AR1
+110000743704,,1444,Eastman Chemical Texas Operations,,Longview,Harrison County,TX,75607,HON Rule,Chemical Manufacturing,TX1
+110000746328,,1320,Westlake Vinyls Co Lp,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110000746532,Possibly this is correct name ,1476,Occidental Chemical Corporation/Ingleside / Oxychem Ingleside Plant,,Ingleside,San Patricio County,TX,78362,HON Rule,Chemical Manufacturing,TX27
+110000746783,,1322,Basf Corp - Dnt Plant,,Geismar,Ascension,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110000747988,,1112,La Cygne,Evergy Metro,La Cygne,Linn,KS,66040,MATS,Coal Power Plant,KS2
+110000748095,,1463,Huntsman Petrochemical Conroe Plant,,Conroe,Montgomery County,TX,77301,HON Rule,Chemical Manufacturing,TX8
+110000785464,,1015,St. Jude Medical Crmd,,Sylmar,Los Angeles,CA,91342,Sterilizer Rule,Commercial Sterilizer,CA29
+110000835678,Name slighly diff.,1029,Medtronic Inc - Rice Creek,,Fridley,Anoka,MN,55432,Sterilizer Rule,Commercial Sterilizer,MN5
+110000872397,,1113,E W Brown,Kentucky Utilities Co,Harrodsburg,Mercer,KY,40330,MATS,Coal Power Plant,KY6
+110000874224,,1114,Ghent,Kentucky Utilities Co,Ghent,Carroll,KY,41045,MATS,Coal Power Plant,KY4
+110000910453,,1242,Northshore Mining,Cleveland-Cliffs Inc.,Silver Bay,Lake,MN,55614,Taconite Rule,Taconite Iron Ore Processing,MN8
+110000925492,,1390,Montgomery Chem Ltd/Conshohocken,,Conshohocken,Montgomery County,PA,19428,HON Rule,Chemical Manufacturing,PA4
+110001147081,,1510,Lhoist North America - Montevallo Plant,Lhoist North America,Calera,Shelby,AL,35040,Lime Rule,Lime Manufacturing,AL6
+110001148598,,1280,Motiva - Delaware City Refinery,,Wilmington,Newcastle,DE,19706,HON Rule,Chemical Manufacturing,DE0
+110001244724,,1338,The Dow Chemical Co - Louisiana Operations,,Plaquemine,Iberville Parish,LA,70764,HON Rule,Chemical Manufacturing,LA2
+110001323318,Diff. City and Zip,1110,George Neal North,MidAmerican Energy Co,Salix,Woodbury,IA,51052,MATS,Coal Power Plant,IA4
+110001505602,,1091,Whelan Energy Center,City of Hastings - (NE),Hastings,Adams,NE,68901,MATS,Coal Power Plant,NE3
+110001638032,,1058,Lemco Ardmore,,Ardmore,Carter,OK,73401,Sterilizer Rule,Commercial Sterilizer,OK4
+110001742419,,1024,International Sterilization Laboratory,,Groveland,Lake,FL,34736,Sterilizer Rule,Commercial Sterilizer,FL11
+110001869559,,1435,Gulf Coast Waste Disposal Bayport Facility,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110001887628,,1257,Goodyear Tire And Rubber Company Danville,,Danville,Danville (city),VA,24541,Rubber Tire Rule,Rubber Processing,VA5
+110001986218,,1494,Carmeuse Lime Inc Millersville Operations,Carmeuse Lime,Millersville,Sandusky,OH,43435,Lime Rule,Lime Manufacturing,OH9
+110002080836,Multiple Plants,1170,Nebraska City,Omaha Public Power District,Nebraska City,Otoe,NE,68410,MATS,Coal Power Plant,NE3
+110002347540,,1345,Westlake Styrene Llc - Marine Terminal,,Sulphur,Calcasieu,LA,70665,HON Rule,Chemical Manufacturing,LA4
+110003266849,Diff. Zipcode,1313,Honeywell International Inc - Baton Rouge Plant,,Baton Rouge,East Baton Rouge Parish,LA,70821,HON Rule,Chemical Manufacturing,LA6
+110003390143,,1276,Ineos Phenol,,Theodore,Mobile County,AL,36582,HON Rule,Chemical Manufacturing,AL1
+110004106413,,1049,"J-Pac, Llc",,Somersworth,Strafford,NH,3878,Sterilizer Rule,Commercial Sterilizer,NH1
+110004948647,Diff. Name,1519,"Pete Lien & Sons, Inc.","PETE LIEN & SONS, INC.",Rapid City,Pennington,SD,57702,Lime Rule,Lime Manufacturing,SD0
+110005003263,,1395,"Chattem Chemicals, Inc.",,Chattanooga,Hamilton,TN,37409,HON Rule,Chemical Manufacturing,TN3
+110005981296,,1224,Scrubgrass Generating Plant,Scrubgrass Reclamation CO. LP.,Kennerdell,Venango,PA,16374,MATS,Coal Power Plant,PA15
+110006306274,,1493,"Carmeuse Lime, Inc. Grand River Operations (0243030257)","Carmeuse Lime, Inc.",Grand River,Lake,OH,44045,Lime Rule,Lime Manufacturing,OH14
+110006497585,,1157,East Bend,Duke Energy Kentucky Inc,Union,Boone,KY,41091,MATS,Coal Power Plant,KY4
+110006623396,,1222,Northampton Generating Company Lp,"EIF Northampton GP, LLC",Northampton,Northampton,PA,18067,MATS,Coal Power Plant,PA7
+110006623519,Diff. County,1141,Seward,Seward Generating LLC,New Florence,Indiana,PA,15944,MATS,Coal Power Plant,PA14
+110006625474,,1004,Steris Isomedix Services Inc,,San Diego,San Diego,CA,92154,Sterilizer Rule,Commercial Sterilizer,CA52
+110007026306,,1215,Foster Wheeler Mt Carmel Cogen,Mount Carmel Cogen Inc,Marion Heights,Northumberland,PA,17832,MATS,Coal Power Plant,PA9
+110007175154,,1408,Ucc Seadrift Operations,,Seadrift,Calhoun County,TX,77983,HON Rule,Chemical Manufacturing,TX27
+110007182360,Two other cities and sites appeared that corrilate with values ,1403,Phillips 66 Chemical Pe Site / Freeport Terminal (Formerly Chevron Phillips Chemical Pe Site / Freeport Terminal),,Freeport / Old Ocean / Sweeny,Brazoria County,TX,77463,HON Rule,Chemical Manufacturing,TX14
+110007182360,,1404,Chevron Phillips Chemical Sweeny Refinery Complex,,Old Ocean,Brazoria County,TX,77463,HON Rule,Chemical Manufacturing,TX14
+110007190707,Diff. Name,1072,"Deroyal Industries, Inc.",,New Tazewell,Claiborne,TN,37825,Sterilizer Rule,Commercial Sterilizer,TN2
+110007235269,,1271,Ascend Performance Materials Llc,,Decatur,Morgan County,AL,35601,HON Rule,Chemical Manufacturing,AL5
+110007334982,,1172,Wyodak,PacifiCorp,Gillette,Campbell,WY,82718,MATS,Coal Power Plant,WY0
+110007346229,,1506,Graymont (Wi) Llc,Graymont Ltd.,Superior,Douglas,WI,54880,Lime Rule,Lime Manufacturing,WI7
+110007346309,,1153,Manitowoc,Manitowoc Public Utilities,Manitowoc,Manitowoc,WI,54220,MATS,Coal Power Plant,WI6
+110007356066,,1190,Scherer,Georgia Power Co,Juliette,Monroe,GA,31046,MATS,Coal Power Plant,GA8
+110007362255,Diff. zipcode,1488,"Carmeuse Lime, Inc. Buffington","Carmeuse Lime, Inc.",Gary,Lake,IN,46406,Lime Rule,Lime Manufacturing,IN1
+110007773196,,1495,Carmeuse Lime Inc/Millard Lime Plt,Carmeuse Lime Inc,Annville,Lebanon,PA,17003,Lime Rule,Lime Manufacturing,PA9
+110007805107,,1068,Medtronic Pr Operation Co.,,Villalba,Villalba,PR,766,Sterilizer Rule,Commercial Sterilizer,PR98
+110007881998,,1214,Grant Town Power Plant,American Bituminous Power LP,Grant Town,Marion,WV,26574,MATS,Coal Power Plant,WV2
+110008056584,,1511,Lhoist North America Of Alabama Llc O'Neal Plant,LHOIST NORTH AMERICA OF ALABAMA LLC,Calera,Shelby,AL,35040,Lime Rule,Lime Manufacturing,AL6
+110008058369,,1491,Carmeuse Lime Inc - River Rouge,Carmeuse Lime Inc,River Rouge,Wayne,MI,48218,Lime Rule,Lime Manufacturing,MI13
+110008061239,,1503,Graymont Western Us Inc. Cricket Mountain,Graymont Ltd.,Delta,Millard,UT,84624,Lime Rule,Lime Manufacturing,UT2
+110008061453,,1512,Lhoist North America,LHOIST NORTH AMERICA,Peach Springs,Yavapai,AZ,86434,Lime Rule,Lime Manufacturing,AZ2
+110008170237,,1401,Dow Texas Operations Freeport,,Freeport,Brazoria County,TX,77541,HON Rule,Chemical Manufacturing,TX14
+110008254423,,1522,Freeport Mcmoran - Miami Smelter,,Miami,Gila,AZ,85532,Copper Rule,primary copper smelting,AZ2
+110008319505,,1101,Big Bend,Tampa Electric Co,Gibsonton,Hillsborough,FL,33534,MATS,Coal Power Plant,FL14
+110008361263,Diff. Name ,1304,Marathon Petroleum Co Llc - Catlettsburg Refining,,Catlettsburg,Boyd County,KY,41129,HON Rule,Chemical Manufacturing,KY5
+110008604894,Diff. City,1492,Carmeuse Ohio Inc - Maplegrove Lime Plant,Carmeuse Lime,Bettsville,Seneca,OH,44815,Lime Rule,Lime Manufacturing,OH5
+110008797864,,1244,Keetac Mine,US Steel,Keewatin,St. Louis,MN,55753,Taconite Rule,Taconite Iron Ore Processing,MN8
+110008799247,,1245,Minntac Mine,US Steel,Mountain Iron,St. Louis,MN,55768,Taconite Rule,Taconite Iron Ore Processing,MN8
+110008821677,,1028,Steris Inc.,,Coon Rapids,Anoka,MN,55433,Sterilizer Rule,Commercial Sterilizer,MN3
+110009570259,,1092,Holcomb,Sunflower Electric Power Corp,Holcomb,Finney,KS,67851,MATS,Coal Power Plant,KS1
+110009846471,,1369,Hexion Inc. - Fayetteville Facility,,Fayetteville,Cumberland County,NC,28301,HON Rule,Chemical Manufacturing,NC7
+110009933395,,1301,Celanese,,Calvert City,Marshall County,ky,42029,HON Rule,Chemical Manufacturing,KY1
+110010534261,,1384,"Toledo Refining Company, Llc.",,Oregon,Lucas County,OH,43616,HON Rule,Chemical Manufacturing,OH9
+110010970235,Diff. City and Zip,1220,Westwood Generation Llc,"Rausch Creek Generation, LLC",Pine Grove,Schuylkill,PA,17963,MATS,Coal Power Plant,PA9
+110011493437,,1171,Big Stone,Otter Tail Power Co,Big Stone City,Grant,SD,57216,MATS,Coal Power Plant,SD0
+110011828068,,1288,Koppers Inc,,Cicero,Cook County,IL,60804,HON Rule,Chemical Manufacturing,IL4
+110011945681,,1248,Cleveland Works,Cleveland-Cliffs Inc.,Cleveland,Cuyahoga,OH,44105,Iron and Steel Rule,Steel Production from Iron Ore,OH11
+110012142127,Specific Name not found,1160,H L Spurlock,"East Kentucky Power Coop, Inc",Maysville,Mason,KY,41056,MATS,Coal Power Plant,KY4
+110012150493,,1003,"Sterigenics Us, Inc.",,Los Angeles,Los Angeles,CA,90058,Sterilizer Rule,Commercial Sterilizer,CA42
+110012150493,Location does not match,1014,"Sterigenics Us, Llc",,Ontario,San Bernardino,CA,91761,Sterilizer Rule,Commercial Sterilizer,CA35
+110012355281,,1099,Hayden,Public Service Co of Colorado,Hayden,Routt,CO,81639,MATS,Coal Power Plant,CO2
+110012817354,,1309,Exxonmobil Chemical Co - Baton Rouge Plastics Plant,,Baton Rouge,East Baton Rouge,LA,70807,HON Rule,Chemical Manufacturing,LA6
+110013286595,,1515,Lhoist North America /Clifton Plant,Lhoist North America of Texas LTD,Clifton,Bosque,TX,76634,Lime Rule,Lime Manufacturing,TX31
+110013320245,,1154,Dave Johnston,PacifiCorp,Glenrock,Converse,WY,82637,MATS,Coal Power Plant,WY0
+110013694494,,1053,Steris Isomedix Services Inc,,South Plainfield,Middlesex,NJ,7080,Sterilizer Rule,Commercial Sterilizer,CA52
+110013831201,,1336,Shell Chemical Lp - Norco Chemical Plant - East Site,,Norco,St. Charles Parish,LA,70079,HON Rule,Chemical Manufacturing,LA1
+110014402315,Diff. City and Zip,1263,Michelin North America Inc Sandy Springs Facility (Us2),,Sandy Springs,Anderson,SC,29677,Rubber Tire Rule,Rubber Processing,SC3
+110014421438,,1075,"Isomedix Operations, Inc.",,El Paso,El Paso,TX,79936,Sterilizer Rule,Commercial Sterilizer,TX16
+110015320543,,1077,Sterigenics U.S. Llc,,Grand Prairie,Tarrant,TX,75050,Sterilizer Rule,Commercial Sterilizer,GA6
+110015588130,,1065,"Customed, Inc.",,Fajardo,Fajardo,PR,738,Sterilizer Rule,Commercial Sterilizer,PR98
+110015757670,,1204,Bonanza,Deseret Generation & Tran Coop,Vernal,Uintah,UT,84078,MATS,Coal Power Plant,UT3
+110015862440,,1297,Chs Mcpherson Refinery Inc.,,Mcpherson,McPherson,KS,67460,HON Rule,Chemical Manufacturing,KS1
+110016858916,,1497,Carmeuse Lime & Stone Rockwell Operation,"Carmeuse Lime, Inc.",Manitowoc,Manitowoc,WI,54220,Lime Rule,Lime Manufacturing,WI6
+110017219678,,1264,The Goodyear Tire & Rubber Company,,Social Circle,Walton,GA,30025,Rubber Tire Rule,Rubber Processing,GA10
+110017410942,Diff. Name,1122,Hawthorn,Evergy Metro,Kansas City,Jackson,MO,64120,MATS,Coal Power Plant,MO5
+110017418061,,1350,Sasol Chemicals (Usa) Llc - Lake Charles Chemical Complex,,Westlake,Calcasieu Parish,LA,70669,HON Rule,Chemical Manufacturing,LA3
+110017420049,,1105,Marion,Southern Illinois Power Coop,Marion,Williamson,IL,62959,MATS,Coal Power Plant,IL12
+110017424312,,1298,"Occidental Chemical Corp (Formerly Oxychem - Wichita Plant And Basic Chemicals Company, Llc And Vulcan Chemicals)",,Wichita,Sedgwick County,KS,67215,HON Rule,Chemical Manufacturing,KS4
+110017431242,,1178,Coronado,Salt River Project,Saint Johns,Apache,AZ,85936,MATS,Coal Power Plant,AZ2
+110017438762,,1270,Sabic Innovative Plastics Us Llc (Formerly Ge Plastics),,Burkville,Lowndes,AL,36752,HON Rule,Chemical Manufacturing,AL7
+110017769734,Diff. Name,1418,Oxyvinyls (Geon),,La Porte,Harris,TX,77571,HON Rule,Chemical Manufacturing,TX36
+110017874736,,1433,Invista S A R L La Porte Plant,,La Porte,Harris County,TX,77571,HON Rule,Chemical Manufacturing,TX36
+110018008378,,1513,Lhoist North America,LHOIST NORTH AMERICA OF MISSOURI INC,Sainte Genevieve,Ste. Genevieve,MO,63670,Lime Rule,Lime Manufacturing,MO8
+110018354010,,1036,Medline Industries,,Waukegan,Lake,IL,60085,Sterilizer Rule,Commercial Sterilizer,IL10
+110018406679,,1253,Granite City Works,US Steel,Granite City,Madison,IL,62040,Iron and Steel Rule,Steel Production from Iron Ore,IL13
+110018861793,Diff. City,1347,Union Carbide Corp - St Charles Operations,,Taft,St. Charles Parish,LA,70057,HON Rule,Chemical Manufacturing,LA2
+110018925957,Diff. Name,1407,Formosa Point Comfort Plant,,Point Comfort,Calhoun County,TX,77978,HON Rule,Chemical Manufacturing,TX27
+110019608735,,1055,Long Island Sterilization,,Hauppauge,Suffolk,NY,11788,Sterilizer Rule,Commercial Sterilizer,NY1
+110020101922,,1207,Huntington,PacifiCorp,Huntington,Emery,UT,84528,MATS,Coal Power Plant,UT3
+110020503953,,1032,"Kpr U.S. Llc D/B/A Kendall Patient Recovery U.S., Llc",,Augusta,Richmond,GA,30906,Sterilizer Rule,Commercial Sterilizer,GA12
+110020578891,Diff. City and Zip,1212,John B Rich Memorial Power Station,Gilberton Power Co,Gilberton,Schuylkill,PA,17934,MATS,Coal Power Plant,PA9
+110020579783,,1034,"Bd (Becton, Dickinson And Company)",,Madison,Morgan,GA,30650,Sterilizer Rule,Commercial Sterilizer,GA13
+110021016229,,1382,Isp,,Lima,Allen County,OH,45804,HON Rule,Chemical Manufacturing,OH4
+110021037457,,1083,Central Virginia Health Network,,Richmond,Henrico,VA,23230,Sterilizer Rule,Commercial Sterilizer,VA4
+110021170908,,1226,Red Hills Generating Facility,"Choctaw Generation L.P, L.L.L.P.",Ackerman,Choctaw,MS,39735,MATS,Coal Power Plant,MS1
+110022408900,,1064,"Guidant Puerto Rico, B.V. (Dba Boston Scientific Puerto Rico)",,Dorado,Dorado,PR,646,Sterilizer Rule,Commercial Sterilizer,PR98
+110022447903,,1274,Vantico Inc,,Mc Intosh,Washington County,AL,36553,HON Rule,Chemical Manufacturing,AL2
+110022868413,,1498,"Cemex De Puerto Rico, Inc.","CEMEX, S.A.B. de C.V.",Ponce,Ponce Municipio,PR,733,Lime Rule,Lime Manufacturing,PR98
+110024471668,West Site,1337,Shell Chemicals,,Norco,St Charles Par,LA,70087,HON Rule,Chemical Manufacturing,LA1
+110025331200,,1507,Riverton Facility,"Greer Industries, Inc. d.b.a. Greer Lime Company",Riverton,Pendleton,WV,26814,Lime Rule,Lime Manufacturing,WV1
+110027373045,,1281,Ascend Performance Materials Operations,,Cantonment,Escambia County,FL,32533,HON Rule,Chemical Manufacturing,FL1
+110027373072,,1300,Westlake Vinyls Inc,,Calvert City,Marshall County,KY,42029,HON Rule,Chemical Manufacturing,KY1
+110027375775,,1284,Snf - Riceboro,,Riceboro,Liberty County,GA,31323,HON Rule,Chemical Manufacturing,GA1
+110028187049,,1413,Texas City Chemical Plant / Ineos Styrenics Texas City Plant / Bp Amoco,,Texas City,Galveston,TX,77592,HON Rule,Chemical Manufacturing,TX14
+110028244861,,1389,Georgia Pacific Chemicals Eugene,,Eugene,Lane,OR,97402,HON Rule,Chemical Manufacturing,OR4
+110028925581,,1233,John W Turk Jr Power Plant,Southwestern Electric Power Co,Fulton,Hempstead,AR,71838,MATS,Coal Power Plant,AR4
+110030471610,,1221,Panther Creek Energy Facility,"Panther Creek Power Operating, LLC",Nesquehoning,Carbon,PA,18240,MATS,Coal Power Plant,PA7
+110030489246,,1020,"Jorgensen Labs, Inc.",,Loveland,Larimer,CO,80537,Sterilizer Rule,Commercial Sterilizer,CO4
+110030900997,,1378,Kraton Polymers U.S. Llc,,Belpre,Washington County,OH,45714,HON Rule,Chemical Manufacturing,OH6
+110030914367,,1509,Mississippi Lime Company,HBM Holdings,Ste. Genevieve,Ste. Genevieve,MO,63670,Lime Rule,Lime Manufacturing,MO8
+110031267064,,1426,Hexion Deer Park / Shell Deer Park Refinery,,Deer Park,Harris County,TX,77536,HON Rule,Chemical Manufacturing,TX36
+110031389192,,1462,Oq Chemicals Bay City Plant,,Bay City,MATAGORDA,TX,77404,HON Rule,Chemical Manufacturing,TX22
+110031468329,Diff. City,1035,"American Contract Systems, Inc.",,Grimes,Polk,IA,50111,Sterilizer Rule,Commercial Sterilizer,FL15
+110031506181,Diff. Name,1414,Blanchard Refining Galveston Bay Refinery / Bp / Amoco,,Texas City,Galveston County,TX,77590,HON Rule,Chemical Manufacturing,TX14
+110032604938,,1030,Boston Scientific Corporation,,Coventry,Kent,RI,2816,Sterilizer Rule,Commercial Sterilizer,RI2
+110033019025,,1063,"St. Jude Medical Puerto Rico, Llc.",,Arecibo,Arecibo Municipio,PR,612,Sterilizer Rule,Commercial Sterilizer,PR98
+110033168391,,1232,Plum Point Energy Station,NRG Energy Services - Plum Point,Osceola,Mississippi,AR,72370,MATS,Coal Power Plant,AR1
+110033595152,,1518,"Martin Marietta Magnesia Specialties, Llc",Martin Marietta Materials,Woodville,Sandusky,OH,43469,Lime Rule,Lime Manufacturing,OH9
+110034393378,,1452,The Dow Chemical Co - Aniline Facility (Formerly Chemours Beaumont Aniline Facility),,Beaumont,Jefferson County,TX,77705,HON Rule,Chemical Manufacturing,TX14
+110034504757,,1180,Oak Grove,Luminant Generation Company LLC,Franklin,Robertson,TX,77856,MATS,Coal Power Plant,TX17
+110035106113,,1236,Sandy Creek Energy Station,Sandy Creek Energy Associates LP,Riesel,McLennan,TX,76682,MATS,Coal Power Plant,TX17
+110035783658,Diff. City and Zip,1456,Veolia Es Technical Solutions,,Port Arthur,Jefferson County,TX,77643,HON Rule,Chemical Manufacturing,TX14
+110037142776,,1041,"Elite Spice, Inc.",,Hanover,Anne Arundel,MD,21076,Sterilizer Rule,Commercial Sterilizer,MD3
+110038173981,Diff. Name and Zip,1466,Flint Hills Resources East Refinery,,Corpus Christi,Nueces,TX,78412,HON Rule,Chemical Manufacturing,TX27
+110038174711,,1487,Carmeuse Lime & Stone Inc,Carmeuse Lime and Stone Inc.,Saginaw,Shelby,AL,35137,Lime Rule,Lime Manufacturing,AL6
+110038495768,,1391,Advansix Inc,,Philadelphia,Philadelphia County,PA,19137,HON Rule,Chemical Manufacturing,PA2
+110038781333,,1429,Goodyear Houston Chemical Plant,,Houston,Harris County,TX,77017,HON Rule,Chemical Manufacturing,TX29
+110039000096,,1502,Graymont Pa Inc/Pleasant Gap Plt,Graymont Western US Inc.,Pleasant Gap,Centre,PA,16823,Lime Rule,Lime Manufacturing,PA15
+110039589585,,1235,Dry Fork Station,Basin Electric Power Coop,Gillette,Campbell,WY,82716,MATS,Coal Power Plant,WY0
+110039627035,,1100,Crystal River,"Duke Energy Florida, LLC",Crystal River,Citrus,FL,34428,MATS,Coal Power Plant,FL12
+110040366065,Diff. County ,1508,Mississippi Lime Co - Verona Plant,HBM Holdings,Verona,Gallatin,KY,41092,Lime Rule,Lime Manufacturing,KY4
+110040576267,,1237,Longview Power Plant,"Longview Power, LLC",Maidsville,Monongalia,WV,26541,MATS,Coal Power Plant,WV2
+110041006416,,1246,Tilden Mine,Cleveland-Cliffs Inc.,Ishpeming,Marquette,MI,49849,Taconite Rule,Taconite Iron Ore Processing,MI1
+110041007166,,1117,Cooper,"East Kentucky Power Coop, Inc",Somerset,Pulaski,KY,42501,MATS,Coal Power Plant,KY5
+110041028544,,1517,Magnesita Refractories/York,Magnestia Refractarios SA,York,York,PA,17408,Lime Rule,Lime Manufacturing,PA10
+110041086393,,1158,Craig,"Tri-State G & T Assn, Inc",Craig,Moffat,CO,81626,MATS,Coal Power Plant,CO3
+110041092876,,1339,Ineos Oxide - A Division Of Ineos Americas Llc,,Plaquemine,Iberville Parish,LA,70764,HON Rule,Chemical Manufacturing,LA2
+110041142304,,1094,Seminole,Seminole Electric Cooperative Inc,Palatka,Putnam,FL,32177,MATS,Coal Power Plant,FL6
+110041168562,Diff. City,1374,Von Roll Usa Inc,,Schenectady,Schenectady,NY,12306,HON Rule,Chemical Manufacturing,NY20
+110041229694,,1019,"Terumo Bct Sterilization Service, Inc.",,Lakewood,Jefferson,CO,80215,Sterilizer Rule,Commercial Sterilizer,CO7
+110041647466,Location and Name do not corrisond for some of the facilities,1275,Evonik Corporation,,Theodore,Mobile County,AL,36582,HON Rule,Chemical Manufacturing,AL1
+110041921935,,1344,"Firestone Polymers/Lake Charles
+ Facility",,Sulphur,Calcasieu,LA,70665,HON Rule,Chemical Manufacturing,LA3
+110041935779,,1342,Flopam Inc - Flopam Facility,,Plaquemine,Iberville,LA,70764,HON Rule,Chemical Manufacturing,LA2
+110041978857,Diff. Name ,1305,"Zeon Chemicals Ky, Inc",,Louisville,Jefferson,KY,40211,HON Rule,Chemical Manufacturing,KY3
+110041990913,,1451,Exxonmobil Oil Beaumont Chemical Plant,,Beaumont,Jefferson County,TX,77701,HON Rule,Chemical Manufacturing,TX14
+110042005843,Diff. name,1446,Borger Refinery,,Borger,Hutchinson,TX,79008,HON Rule,Chemical Manufacturing,TX13
+110042043384,,1535,Uss/Clairton Works,United States Steel,Clairton,Allegheny,PA,15025,Coke Ovens Rule,Coke Ovens,PA12
+110042068473,,1131,Four Corners,Arizona Public Service Co,Fruitland,San Juan,NM,87416,MATS,Coal Power Plant,NM3
+110042630542,Diff. Name,1163,Iatan,Evergy Metro,Weston,Platte,MO,64098,MATS,Coal Power Plant,MO6
+110043787220,,1175,Martin Lake,Luminant Generation Company LLC,Tatum,Rusk,TX,75691,MATS,Coal Power Plant,TX1
+110043788327,Diff. Name,1208,"Gavin Power, Llc","Gavin Power, LLC",Cheshire,Gallia,OH,45620,MATS,Coal Power Plant,OH2
+110043792651,,1156,James H Miller Jr,Alabama Power Co,Quinton,Jefferson,AL,35130,MATS,Coal Power Plant,AL7
+110043804390,,1095,Apache Station,Arizona Electric Pwr Coop Inc,Cochise,Cochise,AZ,85606,MATS,Coal Power Plant,AZ6
+110043806101,,1268,Continental Tire,,Mount Vernon,Jefferson,IL,62864,Rubber Tire Rule,Rubber Processing,IL12
+110043807538,,1532,Gateway Energy & Coke Co Llc,SunCoke Energy,Granite City,Madison,IL,62040,Coke Ovens Rule,Coke Ovens,IL13
+110043813219,,1490,Carmeuse Lime & Stone Maysville Facility,"Carmeuse Lime & Stone, Inc.",Maysville,Mason,KY,41056,Lime Rule,Lime Manufacturing,KY4
+110044852068,,1229,Prairie State Generating Station,Prairie State Generating Co LLC,Marissa,St Clair,IL,62257,MATS,Coal Power Plant,IL12
+110045634774,,1319,Chalmette Refining,,Chalmette,ST BERNARD,LA,70043,HON Rule,Chemical Manufacturing,LA2
+110045693692,,1102,Northside Generating Station,JEA,Jacksonville,Duval,FL,32226,MATS,Coal Power Plant,FL4
+110046371500,,1533,"Middletown Coke Company, Llc",SunCoke Energy,Middletown,Butler,OH,45044,Coke Ovens Rule,Coke Ovens,OH8
+110046461137,,1283,Trinseo (Formerly Dow Chemical Co. Dalton Plant),,Dalton,Whitfield,GA,30721,HON Rule,Chemical Manufacturing,GA14
+110046528227,,1323,Methanex Usa Llc - Geismar Methanol Plant,,Geismar,Ascension,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110049249075,,1351,Evonik Cyro Llc - Mma Plant,,Westwego,Jefferson Par,LA,70094,HON Rule,Chemical Manufacturing,LA2
+110049249076,,1358,Kemira Water Solutions - Acrylamide Unit - Amd Unit,,Waggaman,Jefferson,LA,70094,HON Rule,Chemical Manufacturing,LA2
+110054816703,,1531,Haverhill Coke Company Llc,SunCoke Energy,Franklin Furnace,Scioto,OH,45600,Coke Ovens Rule,Coke Ovens,OH2
+110055026396,Diff. City,1184,John Twitty Energy Center,City Utilities of Springfield - (MO),Brookline Station,Greene,MO,65619,MATS,Coal Power Plant,MO7
+110055056834,,1088,Chemence Medical Inc.,,Alpharetta,Fulton,GA,30005,Sterilizer Rule,Commercial Sterilizer,GA7
+110055923336,,1005,Stryker Sustainability Solutions,,Phoenix,Maricopa,AZ,85044,Sterilizer Rule,Commercial Sterilizer,AZ4
+110056954602,,1333,Americas Styrenics Llc - St James Plant,,Saint James,St James Par,LA,70086,HON Rule,Chemical Manufacturing,LA2
+110056954808,,1240,Minora Mine,Cleveland-Cliffs Inc.,Virginia,St. Louis,MN,55792,Taconite Rule,Taconite Iron Ore Processing,MN8
+110056955460,"Diff. City and Zip, Not matching under company name",1217,River Valley,Oklahoma Gas & Electric Co,Spiro,Le Flore,OK,74959,MATS,Coal Power Plant,OK2
+110056956511,Diff. Name,1303,The Dow Chemical Co (Formerly Dow Corning Corp),,Carrollton,Carroll County,KY,41008,HON Rule,Chemical Manufacturing,KY4
+110056958430,,1290,Dynachem Inc,,Georgetown,Vermilion County,IL,61846,HON Rule,Chemical Manufacturing,IL15
+110056961417,,1273,"Indorama Ventures Xylenes And Pta, Llc (Formerly Amoco Chemical)",,Decatur,Morgan,AL,35609,HON Rule,Chemical Manufacturing,AL5
+110056965280,,1109,Walter Scott Jr Energy Center,MidAmerican Energy Co,Council Bluffs,Pottawattamie,IA,51501,MATS,Coal Power Plant,IA4
+110056966948,,1480,"Celanese Acetate Llc / Duke Energy Generation Services Of Narrows, Llc",,Narrows,Giles,VA,24124,HON Rule,Chemical Manufacturing,VA9
+110057376398,,1383,Ineos Usa Llc (0302020015),,Lima,Allen County,OH,45802,HON Rule,Chemical Manufacturing,OH4
+110057382666,,1188,Mayo,Duke Energy Progress - (NC),Roxboro,Person,NC,27574,MATS,Coal Power Plant,NC13
+110058113704,,1428,Houston Refining,,Houston,Harris County,TX,77017,HON Rule,Chemical Manufacturing,TX29
+110059809989,,1419,Kuraray America Vinyls,,La Porte,Harris,TX,77571,HON Rule,Chemical Manufacturing,TX36
+110060497001,,1249,Dearborn Works,Cleveland-Cliffs Inc.,Dearborn,Wayne,MI,48120,Iron and Steel Rule,Steel Production from Iron Ore,MI12
+110061066199,,1286,"New Heaven Chemicals, Inc.",,Manly,Worth,IA,50456,HON Rule,Chemical Manufacturing,IA2
+110061069258,,1334,South La Methanol Lp - St James Methanol,,Louisiana,St. James Parish,LA,70086,HON Rule,Chemical Manufacturing,LA2
+110062118505,,1450,Goodyear Tire & Rubber Beaumont Chemical Plant,,Beaumont,Jefferson County,TX,77720,HON Rule,Chemical Manufacturing,TX14
+110063232078,,1150,Mitchell,Kentucky Power Co,Moundsville,Marshall,WV,26041,MATS,Coal Power Plant,WV2
+110064446531,,1472,Firestone / Lion Elastomers,,Orange,Orange,TX,77630,HON Rule,Chemical Manufacturing,TX14
+110064520031,,1316,Cci Port Nickel Llc - Port Nickel,,Braithwaite,Plaquemines Parish,LA,70040,HON Rule,Chemical Manufacturing,LA1
+110064522823,,1371,Dakota Gasification Company-Great Plains Synfuels Plant,,Beulah,Mercer County,ND,58523,HON Rule,Chemical Manufacturing,ND0
+110064524849,,1331,Big Lake Fuels Llc,,Lake Charles,Calcasieu Parish,LA,70605,HON Rule,Chemical Manufacturing,LA4
+110064636032,Diff. Name,1467,Valero Refining Company West Plant,,Corpus Christi,Nueces,TX,78407,HON Rule,Chemical Manufacturing,TX27
+110066942526,,1250,Indiana Harbor Works,Cleveland-Cliffs Inc.,East Chicago,Lake,IN,46312,Iron and Steel Rule,Steel Production from Iron Ore,IN1
+110066942526,,1499,Mittal Steel Usa - Indiana Harbor East,Cleveland-Cliffs Inc.,East Chicago,Lake,IN,46312,Lime Rule,Lime Manufacturing,IN1
+110066943605,,1399,"Olin Blue Cube Operations, Llc",,Freeport,Brazoria,TX,77541,HON Rule,Chemical Manufacturing,TX14
+110067215463,,1155,John P Madgett,Dairyland Power Coop,Alma,Buffalo,WI,54610,MATS,Coal Power Plant,WI3
+110067396669,,1330,Denka Performance Elastomer Llc,,Laplace,St John The Baptist,LA,70068,HON Rule,Chemical Manufacturing,LA2
+110068961225,,1241,Hibbing Taconite Mine,Cleveland-Cliffs Inc.,Hibbing,St. Louis,MN,55746,Taconite Rule,Taconite Iron Ore Processing,MN8
+110069332065,,1521,Asarco - Hayden Smelter,,Hayden,Gila,AZ,85135,Copper Rule,primary copper smelting,AZ2
+110069427141,,1084,Lifenet Health,,Virginia Beach,Virginia Beach city,VA,23455,Sterilizer Rule,Commercial Sterilizer,VA2
+110069499279,,1231,Wygen 2,"Black Hills Power, Inc.",Gillette,Campbell,WY,82717,MATS,Coal Power Plant,WY0
+110070053468,Diff. Name and Zip,1475,Exxonmobil Sabic Gulf Coast Growth Ventures (Gcgv),,Gregory,San Patricio,TX,78390,HON Rule,Chemical Manufacturing,TX27
+110070061873,,1360,Trinseo Llc-Mi Operations,,Midland,MIDLAND,MI,48667,HON Rule,Chemical Manufacturing,MI8
+110070106516,Diff. Name,1464,Oxea Bishop Facility,,Bishop,Nueces,TX,78343,HON Rule,Chemical Manufacturing,TX34
+110070132818,,1359,Lotte Chemical Louisiana Llc,,Westlake,Calcasieu,LA,70669,HON Rule,Chemical Manufacturing,LA3
+110070183112,,1449,Beaumont Gas-To Gasoline Plant,,Beaumont,Jefferson,TX,77705,HON Rule,Chemical Manufacturing,TX14
+110070255960,,1354,Igp Methanol Llc - Gulf Coast Methanol Complex,,Myrtle Grove,Plaquemines Parish,LA,70083,HON Rule,Chemical Manufacturing,LA1
+110070374301,,1529,Ees Coke Battery L.L.C.,DTE Vantage,River Rouge,Wayne,MI,48209,Coke Ovens Rule,Coke Ovens,MI13
+110070377148,,1400,Monsanto Co/Ascend Performance Materials Chocolate Bayou Plant (Formerly Amoco Aka Eastman),,Alvin,Brazoria County,TX,77512,HON Rule,Chemical Manufacturing,TX14
+110070502906,,1355,Kme St James Holdings Llc - Methanol Terminal,,St. James,St James Par,LA,70086,HON Rule,Chemical Manufacturing,LA2
+110070525251,Diff. Zipcode,1361,Corteva Agriscience Llc,,Midland,Midland County,MI,48640,HON Rule,Chemical Manufacturing,MI8
+110070525259,,1405,Corteva Agrisciences Llc Texas Operations Freeport,,Freeport,Brazoria County,TX,77541,HON Rule,Chemical Manufacturing,TX14
+110070566686,,1061,American Contract Systems,,Zelienople,Butler,PA,16063,Sterilizer Rule,Commercial Sterilizer,MO5
+110070616641,,1057,"American Contract Systems, Inc.",,Tiffin,Seneca,OH,44883,Sterilizer Rule,Commercial Sterilizer,FL15
+110070676994,"Diff. Name, City, and Zip",1486,Altivia,,Institute,Kanawha,WV,25112,HON Rule,Chemical Manufacturing,WV1
+110070684703,,1357,Fg La Llc - Sunshine Project Early Works,,St. James,St James Par,LA,70086,HON Rule,Chemical Manufacturing,LA2
+110070834834,Diff. City,1192,Antelope Valley,Basin Electric Power Coop,Zap,Mercer,ND,58580,MATS,Coal Power Plant,ND0
+110070834884,,1327,Basf Corp - Geismar Site,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110070873844,,1375,Shpp Us Llc (Formerly Sabic Innovative Plastics Us Llc),,Selkirk,Albany County,NY,12158,HON Rule,Chemical Manufacturing,NY20
+110070911173,Unsure,1335,Shell (Formerly Motiva Enterprises Llc - Norco Refinery),,Norco,St. Charles Parish,LA,70079,HON Rule,Chemical Manufacturing,LA1
+110071176609,Diff. Name,1402,Basf Freeport Site,,Freeport,Brazoria County,TX,77541,HON Rule,Chemical Manufacturing,TX14
+110071198058,,1129,Merrimack,Granite Shore Power,Bow,Merrimack,NH,3304,MATS,Coal Power Plant,NH2
+110071198059,Diff. name ,1130,Schiller,Granite Shore Power,Portsmouth,Rockingham,NH,3801,MATS,Coal Power Plant,NH1
+110071272449,,1011,American Contract Systems Inc,,Chandler,Maricopa,AZ,85226,Sterilizer Rule,Commercial Sterilizer,CA39
+110071367964,,1485,"The Chemours Company Fc, Llc, Washington Works",,Washington,Wood County,WV,26181,HON Rule,Chemical Manufacturing,WV2
+110071425394,,1026,"American Contract Systems, Inc.",,Temple Terrace,Hillsborough,FL,33637,Sterilizer Rule,Commercial Sterilizer,FL15
+110071498710,Diff. Zip and City,1520,"Pete Lien & Sons, Inc. - Jonathon Lime Plant",,Laramie,Albany,WY,82072,Lime Rule,Lime Manufacturing,WY0
+110071722205,,1225,St Nicholas Cogen Project,Schuylkill Energy Resource Inc,Shenandoah,Schuylkill,PA,17976,MATS,Coal Power Plant,PA9
+110071722385,,1147,John E Amos,Appalachian Power Co,Winfield,Putnam,WV,25213,MATS,Coal Power Plant,WV1
+110071722476,,1118,R S Nelson,Entergy,Westlake,Calcasieu Parish,LA,70669,MATS,Coal Power Plant,LA3
+110071723098,,1085,Alcon - Advance Optic Device Center North,,Lesage,Cabell,WV,25537,Sterilizer Rule,Commercial Sterilizer,WV1
+110071723488,,1326,Occidental Chemical Corporation - Geismar Plant,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110071723509,,1366,"Georgia Pacific Chemicals,Taylorsville",,Taylorsville,Smith County,MS,39168,HON Rule,Chemical Manufacturing,MS3
+110071723751,,1062,Edwards Lifesciences Technology Sàrl,,Añasco,Anasco,PR,610,Sterilizer Rule,Commercial Sterilizer,PR98
+110071876299,,1066,Medtronic Puerto Rico Operations Company (Mproc Juncos),,Juncos,Juncos,PR,777,Sterilizer Rule,Commercial Sterilizer,PR98
+110071883566,Diff. name ,1443,Celanese Clear Lake Plant,,Pasadena,Harris County,TX,77507,HON Rule,Chemical Manufacturing,TX36
+110001147786,"Previously entered as ""Colver P""",1213,Colver Power Project,"Inter-Power/AhlCon Partners, L.P.",Colver,Cambria,PA,15927,MATS,Coal Power Plant,PA13
+110070094690,"Could not find in EDGI ECHO but did locate in EPA ECHO as “Applied Medical Resources Corporation” at 9401 Toledo Way, Irvine, CA 92618 FRS ID #: 110070094690",1002,Applied Medical Resources,,Irvine,Orange,CA,92618,Sterilizer Rule,Commercial Sterilizer,CA47
+110070119302,"Could not locate in EDGI ECHO, but did see on the EPA Listing of Commercial Sterilization facilities.  Matched address (35 enterprise, aliso Viejo, CA 92656).  Located in EPA ECHO ",1006,"Microvention, Inc.",,Aliso Viejo,Orange,CA,92656,Sterilizer Rule,Commercial Sterilizer,CA40
+110070848179,"Life Science Outsourcing, Inc. at 830 Challenger St in Brea, CA linked to FRS ID: 110070848179",1007,"Life Science Outsourcing, Inc",,Brea,Orange,CA,92821,Sterilizer Rule,Commercial Sterilizer,CA45
+110071854385,"American Contract Systems 14528 Meridian Parkway, Ste B Riverside, CA linked to FRS ID: 110071854385",1008,American Contract Systems Inc,,Riverside,Riverside,CA,92518,Sterilizer Rule,Commercial Sterilizer,CA39
+110064286589,"The Jackson Laboratory 1650 SANTA ANA AVE, SACRAMENTO, CA 95838 linked to FRS ID # 110064286589",1009,The Jackson Laboratory,,Sacramento,Sacramento,CA,95838,Sterilizer Rule,Commercial Sterilizer,CA6
+NA,,1013,Blue Line Sterilization Services,,Novato,Marin,CA,94949,Sterilizer Rule,Commercial Sterilizer,CA2
+NA,,1086,Advanced Bionics Inc.,,Valencia,Los Angeles,CA,91355,Sterilizer Rule,Commercial Sterilizer,CA27
+NA,,1087,Mt. San Antonio Community College,,Walnut,Los Angeles,CA,91789,Sterilizer Rule,Commercial Sterilizer,CA38
+110071091875,"I think this might be “Boulder Biomed- Western” at 5421 Western Ave in Boulder, CO 80301 with Registry ID: 110071091875.  *Also thinking this facility because of this article on commercial sterilizers: https://test.ucsaction.org/resources/colorado",1018,Western,,Boulder,Boulder,CO,80301,Sterilizer Rule,Commercial Sterilizer,CO2
+110069280904,I think this might be Arthrex Manufacturing Inc at 6861 Arthrex Commerce Dr in Ave Maria with FRS ID: 110069280904,1022,Arthrex Manufacturing Inc Finishing,,Ave Maria,Collier,FL,34142,Sterilizer Rule,Commercial Sterilizer,FL26
+110071425488,"“Fort Myers Facility” I’m pretty sure is Fort Myers Facility at 11600 Adelmo Lane in Fort Myers, FL, and I think this facility is also called “American Contract Systems” and is associated with facility ID: 110071425488",1023,Fort Myers Facility,,Fort Myers,Lee,FL,33966,Sterilizer Rule,Commercial Sterilizer,FL19
+110000361992,"“Medtronic ENT” 6743 Southpoint Dr N Jacksonville, FL.  There are multiple Medtronic entries in Jacksonville, but only this one shared the exact address (it also has a different name)—Xomed Surgical Products Incorporated FRS ID # 110000361992",1025,Medtronic Ent,,Jacksonville,Duval,FL,32216,Sterilizer Rule,Commercial Sterilizer,FL5
+110041158136,"Searched in ECHO and got the name “Air Products and Chemicals” then searched the EDGI ECHO data and found Air Products and Chemicals Inc in Pace, FL Registry ID #: 110041158136.  This also matches the EPA ECHO ID#.",1282,"Taminco Us Inc (Subsidiary Of Eastman Chemical Company) / Air Products And Chemicals, Inc.",,Pace,Santa Rosa County,FL,32571,HON Rule,Chemical Manufacturing,FL1
+110070683851,"Found in EDGI’s database.  Name: BD COVINGTON GLOBAL DISTRIBUTION CENTER in Covington, GA 30014 Registry ID# 110070683851",1033,"Bd (Becton, Dickinson And Company)",,Covington,Newton,GA,30014,Sterilizer Rule,Commercial Sterilizer,GA13
+110000415827,Multiple matches for “Muscatine” in EDGI ECHO.  Did some google-ing.  Found this: https://frs-public.epa.gov/ords/frs_public2/fii_query_dtl.disp_program_facility?p_registry_id=110000415827 .  Searched the EPA Registry ID# 110000415827 and was able to locate in ECHO “Muscatine Power & Water Generation” at 1700 Industrial Connector Road.  This also exists in the EDGI ECHO data.,1111,Muscatine Plant #1,Board of Water Electric & Communications,Muscatine,Muscatine,IA,52761,MATS,Coal Power Plant,IA1
+NA,,1189,Ottumwa,Interstate Power and Light Co,Ottumwa,Wapello,IA,52501,MATS,Coal Power Plant,IA3
+NA,,1104,Dallman,City of Springfield - (IL),Springfield,Sangamon,IL,62703,MATS,Coal Power Plant,IL13
+NA,No specific facility matching ,1287,Bp Amoco Chemical Co,,Channahon,Will County,IL,60410,HON Rule,Chemical Manufacturing,IL1
+110000547196,": I think this may have been renamed from Azko Nobel to Nouryon Surface Chemistry LLC (Google).  Has matching city, state, zip, and county.  ",1291,Akzo Nobel Surface Chemistry Llc,,Morris,Grundy County,IL,60450,HON Rule,Chemical Manufacturing,IL16
+NA,,1292,Conocophillips Co / Shell Oil Co. Wood River Mfg. Complex,,Roxana,Madison County,IL,62084,HON Rule,Chemical Manufacturing,IL13
+110000403242,"Placed comma after Cook, was able to find in EDGI’s ECHO (and also appears in the Commercial Sterilizer list).  ",1037,Cook Incorporated,,Ellettsville,Monroe,IN,47429,Sterilizer Rule,Commercial Sterilizer,IN9
+NA,,1173,Gibson,"Duke Energy Indiana, LLC",Owensville,Gibson,IN,47665,MATS,Coal Power Plant,IN8
+NA,,1177,Rockport,Indiana Michigan Power Co,Rockport,Spencer,IN,47635,MATS,Coal Power Plant,IN8
+110000592831,"From Google: ""In October 2022, Hallador Energy acquired Hoosier Energy's Merom Generating Station, and Hallador Power Company is operating the station.""",1186,Merom,"Hallador Power Company, LLC",Sullivan,Sullivan,IN,47882,MATS,Coal Power Plant,IN8
+110044834668,"Found in EDGI ECHO- ""Alcoa Warrick Power Plant AGC Div..""",1195,Warrick,AGC Division of APGI Inc,Newburgh,Warrick,IN,47630,MATS,Coal Power Plant,IN8
+NA,,1252,Gary Works,US Steel,Gary,Lake,IN,46402,Iron and Steel Rule,Steel Production from Iron Ore,IN1
+110000397516,Name Changes: https://mirrorindy.org/west-indianapolis-chemical-plant-closing-epa-vertellus-aurorium/,1294,Vertellus Integrated Pyridines Llc,,Indianapolis,Marion County,IN,46241,HON Rule,Chemical Manufacturing,IN7
+NA,,1530,Indiana Harbor Coke Company Lp Contractor Of Cleveland-Cliffs Steel Llc,SunCoke Energy,East Chicago,Lake,IN,46312,Coke Ovens Rule,Coke Ovens,IN1
+110000445340,,1162,Nearman Creek,City of Kansas City - (KS),Kansas City,Wyandotte,KS,66104,MATS,Coal Power Plant,KS2
+NA,,1116,Shawnee,Tennessee Valley Authority,Kevil,McCracken,KY,42053,MATS,Coal Power Plant,KY1
+110000378467,Restructing/Reorganization: https://www.azom.com/suppliers.aspx?SupplierID=15756,1308,"Hexion, Inc.",,Louisville,Jefferson County,KY,40216,HON Rule,Chemical Manufacturing,KY3
+NA,,1161,Big Cajun 2,Louisiana Generating LLC,Ventress,Pointe Coupee,LA,70783,MATS,Coal Power Plant,LA6
+NA,,1315,Phillips 66 Co - Alliance Refinery,,Belle Chasse,Plaquemines Parish,LA,70037,HON Rule,Chemical Manufacturing,LA1
+110002056024,Name Changes/Restrucring,1324,Hexion Inc - Formaldehyde Plant,,Geismar,Ascension,LA,70734,HON Rule,Chemical Manufacturing,LA2
+110070507625,In EDGI ECHO database,1328,Praxair Inc - Geismar Plant,,Geismar,Ascension Parish,LA,70734,HON Rule,Chemical Manufacturing,LA2
+NA,,1343,Angus Chemical Co,,Sterlington,Ouachita Parish,LA,71280,HON Rule,Chemical Manufacturing,LA4
+110071162164,Hard to narrow down which one given info; Was able to locate in EPA ECHO,1346,Westlake Petrochemicals Lp - Ethylene Manufacturing Complex (Petro I/Petro Ii),,Sulphur,Calcasieu,LA,70665,HON Rule,Chemical Manufacturing,LA4
+110063006651,Located in EPA ECHO,1348,Eagle Us 2 Llc - Lake Charles Complex,,Westlake,Calcasieu Parish,LA,70669,HON Rule,Chemical Manufacturing,LA3
+NA,"Diff. City, Zip, County",1349,Axiall Llc (Formerly Georgia Gulf Lake Charles Llc),,Westlake,Calcasieu Parish,LA,70669,HON Rule,Chemical Manufacturing,LA3
+NA,"Diff. City, Zip, and Name",1353,Citgo Petroleum Corporation,,Lake Charles,Calcasieu Par,LA,70602,HON Rule,Chemical Manufacturing,LA3
+NA,,1356,Yci Methanol Plant,,St. James,St James Par,LA,70086,HON Rule,Chemical Manufacturing,LA2
+110000498168,Name Change from Isomedix to Steris Corporation,1038,"Isomedix Operation, Inc.",,Northborough,Worcester,MA,1532,Sterilizer Rule,Commercial Sterilizer,MA2
+110000882466,"""Professional Contract Sterlization""",1039,"Pcs, Inc.",,Taunton,Bristol,MA,2780,Sterilizer Rule,Commercial Sterilizer,MA4
+110070234075,Diff. Location Appeared; Found in EPA ECHO,1040,Fuchs North America,,Hampstead,Carroll,MD,21074,Sterilizer Rule,Commercial Sterilizer,MD2
+110071440424,,1043,"Trinity Sterile, Inc.",,Salisbury,Wicomico,MD,21801,Sterilizer Rule,Commercial Sterilizer,MD1
+110071161563,"Found two in EPA ECHO- matched based on name, location, and NAICS Description (""Lime Manufacturing"")",1501,Port Inland Plant,Graymont Western Lime Inc.,Gulliver,Schoolcraft,MI,49840,Lime Rule,Lime Manufacturing,MI1
+NA,,1120,Clay Boswell,"ALLETE, Inc.",Cohasset,Itasca,MN,55721,MATS,Coal Power Plant,MN8
+110000423612,"Diff. Company; Looks like ""Allen S King"" may be the name used in other EPA Systems (e.g., GHGRP)",1121,Allen S King,Northern States Power Co - Minnesota,Bayport,Washington,MN,55003,MATS,Coal Power Plant,MN4
+110070834615,,1243,United Taconite Mine,Cleveland-Cliffs Inc.,Forbes,St. Louis,MN,55738,Taconite Rule,Taconite Iron Ore Processing,MN8
+110071375360,Found in EPA ECHO,1044,Midwest Sterilization Corporation,,Jackson,Cape Girardeau,MO,63755,Sterilizer Rule,Commercial Sterilizer,MO8
+110071642383,Found in EPA ECHO,1045,American Contract Systems,,North Kansas City,Clay,MO,64117,Sterilizer Rule,Commercial Sterilizer,MO5
+NA,,1123,Labadie,Union Electric Co - (MO),Labadie,Franklin,MO,63055,MATS,Coal Power Plant,MO2
+NA,,1124,Sioux,Union Electric Co - (MO),West Alton,St Charles,MO,63386,MATS,Coal Power Plant,MO3
+NA,,1125,New Madrid,"Associated Electric Coop, Inc",Portageville,New Madrid,MO,63873,MATS,Coal Power Plant,MO8
+NA,,1126,Thomas Hill,"Associated Electric Coop, Inc",Huntsville,Randolph,MO,65259,MATS,Coal Power Plant,MO6
+NA,,1266,"Goodyear Tire And Rubber Company, The",,Tupelo,Lee,MS,38804,Rubber Tire Rule,Rubber Processing,MS1
+NA,,1166,Colstrip,Talen Montana LLC,Colstrip,Rosebud,MT,59323,MATS,Coal Power Plant,MT2
+NA,,1219,Colstrip Energy Lp,Colstrip Energy LP,Colstrip,Rosebud,MT,59323,MATS,Coal Power Plant,MT2
+110038363623,,1228,Hardin Generator Project,Heorot Power Management,Hardin,Big Horn,MT,59034,MATS,Coal Power Plant,MT2
+110071854691,,1047,Andersen Scientific,,Morrisville,Wake,NC,27560,Sterilizer Rule,Commercial Sterilizer,NC4
+NA,Unable to tell,1132,Roxboro,Duke Energy Progress - (NC),Semora,Person,NC,27343,MATS,Coal Power Plant,NC13
+110006424404,"""Cliffside Steam Station""; Identified as Rogers Energy Complex in ICIS-NPDES",1133,James E. Rogers Energy Complex,"Duke Energy Carolinas, LLC",Mooresboro,Cleveland,NC,28114,MATS,Coal Power Plant,NC14
+110000347544,Bakelite Chemicals LLC-Conway; Listed as Georgia-Pacific Chemiccals in TRI and TSCA systems,1368,"Georgia-Pacific Chemicals, Llc - Conway",,Conway,Northampton County,NC,27820,HON Rule,Chemical Manufacturing,NC1
+110069500766,"""Hexion Inc. Acme Site""",1370,Oak-Bark Corp / Hexion Inc. - Acme Operations / Wright Corp / Silar Llc,,Riegelwood,Columbus County,NC,28456,HON Rule,Chemical Manufacturing,NC7
+110000428378,,1210,Coyote,Otter Tail Power Co,Beulah,Mercer,ND,58523,MATS,Coal Power Plant,ND0
+110013303656,"""BD Pharmaceutical Systems""",1048,Becton Dickinson Pharmaceutical Systems,,Columbus,Platte,NE,68601,Sterilizer Rule,Commercial Sterilizer,NE1
+110000448249,,1090,Platte,City of Grand Island - (NE),Grand Island,Hall,NE,68801,MATS,Coal Power Plant,NE3
+110040983308,"""Lon D Wright Power Plant""",1127,Lon Wright,City of Fremont - (NE),Fremont,Dodge,NE,68025,MATS,Coal Power Plant,NE1
+110070557911,Found in EPA ECHO,1050,Cosmed Group Inc Dba Cosmed Of Nj,,Franklin,Sussex,NJ,7416,Sterilizer Rule,Commercial Sterilizer,NJ5
+110000318567,"""Cosmed Group""- listed in ICIS, TRI, RCRA as ETO Sterilization",1051,Eto Sterilization-Plant #2,,Linden,Union,NJ,7036,Sterilizer Rule,Commercial Sterilizer,NJ7
+110000582003,"Found in EPA ECHO as ""Delaware River Plant""; Listed in ICIS as ""Polymer Additives""",1372,Polymer Additives Inc (Form: Ferro Corp - De Riv. Plant),,Bridgeport,Gloucester County,NJ,8014,HON Rule,Chemical Manufacturing,NJ2
+110071718252,Found in EPA ECHO,1514,Lhoist North America Apex Plant,Lhoist North America OF ARIZONA,Las Vegas,Clark,NV,89165,Lime Rule,Lime Manufacturing,NV3
+110071646824,Found in EPA ECHO,1376,Momentive Performance Materials,,Waterford,Saratoga County,NY,12188,HON Rule,Chemical Manufacturing,NY20
+110000395625,"Found in EPA ECHO as ""The Cooper Tire Company-Findlay""; Listed in ICIS, TRIE, and RCRA as Goodyear Tire & Rubber",1260,The Goodyear Tire & Rubber Company,,Findlay,Hancock,OH,45840,Rubber Tire Rule,Rubber Processing,OH5
+110070834955,Found in EPA ECHO,1380,"Altivia Petrochemicals, Llc",,Haverhill,Scioto County,OH,45636,HON Rule,Chemical Manufacturing,OH2
+NA,,1385,Bp-Husky Refining Llc,,Oregon,Lucas County,OH,43697,HON Rule,Chemical Manufacturing,OH9
+NA,Multi Opt.,1387,Sunoco Partners Marketing & Terminals Lp Toledo Term,,Toledo,Lucas County,OH,43605,HON Rule,Chemical Manufacturing,OH9
+NA,,1388,Perstop Poyols,,Toledo,LUCAS,OH,43612,HON Rule,Chemical Manufacturing,OH9
+110012566767,"Found in EPA ECHO as ""Ltd Steel Coke Plant""; listed in EIS, ICIS, GHGRP as Cleveland-Cliffs",1528,Cleveland-Cliffs Warren,Cleveland-Cliffs,Warren,Trumbull,OH,44481,Coke Ovens Rule,Coke Ovens,OH14
+110001116934,"Listed in EPA ECHO as ""USS Corp/Edgar Thomson Works""",1254,Mon Valley Works,US Steel,Braddock,Allegheny,PA,15104,Iron and Steel Rule,Steel Production from Iron Ore,PA12
+110000329118,"Found in EPA ECHO as ""Arcelormittal Monessen Coke Plant""; ICIS entries as Cleveland Cliffs",1527,Cleveland Cliffs Monessen Coke Llc/Monessen Coke Plt,Cleveland-Cliffs,Monessen,Westmoreland,PA,15062,Coke Ovens Rule,Coke Ovens,PA14
+110000499764,"Found in EPA ECHO as ""Santee Cooper Cross Generating Station""; Listed in CEDRI and GHGRP as ""Cross""",1093,Cross,South Carolina Public Service Authority,Pineville,Berkeley,SC,29468,MATS,Coal Power Plant,SC1
+NA,,1142,Wateree,"Dominion Energy South Carolina, Inc",Eastover,Richland,SC,29044,MATS,Coal Power Plant,SC6
+110043305688,"In EPA ECHO as ""Alpek Polyester USA, LLC""; In TSCA as ""Dak Americas LLC Columbia Site""",1393,Dak Americas Llc Columbia Site,,Gaston,Calhoun County,SC,29053,HON Rule,Chemical Manufacturing,SC6
+3400066148,Found in EPA ECHO,1397,Lucite International Inc,,Memphis,SHELBY,TN,38127,HON Rule,Chemical Manufacturing,TN9
+NA,,1073,"Steritec, Inc.",,Athens,Henderson,TX,75751,Sterilizer Rule,Commercial Sterilizer,TX5
+110071855035,Found in EPA ECHO,1074,Dynatec Scientific Laboratories,,El Paso,El Paso,TX,79936,Sterilizer Rule,Commercial Sterilizer,TX16
+110002131014,"Found in EPA ECHO as ""Cosmed of Texas""; has TRI and TSCA entries as ""Steris Isomedix Services""",1076,"Isomedix Operations, Inc.",,Grand Prairie,Tarrant,TX,75050,Sterilizer Rule,Commercial Sterilizer,TX16
+110024942678,Located in EPA ECHO,1078,Midwest Sterilization Corporation,,Laredo,Webb,TX,78045,Sterilizer Rule,Commercial Sterilizer,MO8
+110070335583,Located in EPA ECHO,1200,Major Oak Power,"Major Oak Power, LLC",Bremond,Robertson,TX,76629,MATS,Coal Power Plant,TX17
+NA,,1201,J K Spruce,City of San Antonio - (TX),San Antonio,Bexar,TX,78263,MATS,Coal Power Plant,TX28
+110017769789,"Located in EPA ECHO as ""Bakelite Chemicals LLC-Lufkin Plant""",1398,Georgia-Pacific Resins Lufkin Plant,,Lufkin,Angelina County,TX,75901,HON Rule,Chemical Manufacturing,TX17
+NA,,1410,Lanxess Corp Baytown,,Baytown,Chambers,TX,77523,HON Rule,Chemical Manufacturing,TX36
+NA,,1411,Kmco,,Crosby,CROSBY,TX,77532,HON Rule,Chemical Manufacturing,TX2
+NA,,1412,Eastman Chemical Texas City,,Texas City,Galveston,TX,77592,HON Rule,Chemical Manufacturing,TX14
+110070748234,,1415,Union Carbide Texas City,,Texas City,Galveston County,TX,77590,HON Rule,Chemical Manufacturing,TX14
+110043782788,"In EPA ECHO as ""Oxy Vinyls LP- Deer Park PVC""",1416,Oxyvinyls (Occidental Chemical Corp) Vcm Plant,,Deer Park,Harris,TX,77536,HON Rule,Chemical Manufacturing,TX36
+NA,,1421,Exxon Mobil Chemical Baytown Olefins Plant,,Baytown,Harris County,TX,77520,HON Rule,Chemical Manufacturing,TX36
+NA,,1422,Exxonmobil Chemical Baytown Chemical Plant,,Baytown,Harris County,TX,77520,HON Rule,Chemical Manufacturing,TX36
+NA,,1425,Rohm And Haas Texas Deer Park Plant,,Deer Park,Harris County,TX,77536,HON Rule,Chemical Manufacturing,TX36
+NA,,1430,Tpc Group Houston Plant,,Houston,Harris County,TX,77017,HON Rule,Chemical Manufacturing,TX29
+NA,,1432,La Porte Methanol,,La Porte,Harris County,TX,77572,HON Rule,Chemical Manufacturing,TX36
+NA,Diff. Location,1437,Kuraray Company Inc,,Pasadena,Harris County,TX,77501,HON Rule,Chemical Manufacturing,TX36
+NA,unable to find,1440,"Sekisui Specialty Chemicals America, Llc. - Pasadena Plant",,Pasadena,Harris County,TX,77501,HON Rule,Chemical Manufacturing,TX29
+NA,Diff. name,1445,Alon Usa Big Spring Refinery,,Big Spring,Howard County,TX,79720,HON Rule,Chemical Manufacturing,TX19
+NA,,1447,Chevron Phillips Chemical Borger Plant,,Borger,Hutchinson County,TX,79007,HON Rule,Chemical Manufacturing,TX13
+NA,,1453,Chevron Chemical Company,,Port Arthur,Jefferson County,TX,77640,HON Rule,Chemical Manufacturing,TX14
+NA,,1455,Flint Hills Resources Port Arthur Facility,,Port Arthur,Jefferson County,TX,77640,HON Rule,Chemical Manufacturing,TX14
+NA,,1457,Nafta Region Olefins Complex,,Port Arthur,Jefferson County,TX,77640,HON Rule,Chemical Manufacturing,TX14
+NA,Diff. Company at location,1458,Lion Elastomers,,Port Neches,Jefferson County,TX,77651,HON Rule,Chemical Manufacturing,TX14
+NA,Diff. company owns ,1468,Valero Corpus Christi Refinery East Plant,,Corpus Christi,Nueces County,TX,78412,HON Rule,Chemical Manufacturing,TX27
+NA,,1471,Lanxess Corporation (Formerly Bayer),,Orange,Orange,TX,77630,HON Rule,Chemical Manufacturing,TX14
+NA,,1473,Dupont Sabine River Works,,Orange,Orange County,TX,77630,HON Rule,Chemical Manufacturing,TX14
+NA,,1474,Invista Sarl Sabine River Site,,Orange,Orange County,TX,77630,HON Rule,Chemical Manufacturing,TX14
+NA,,1477,Invista Sarl,,Victoria,Victoria County,TX,77905,HON Rule,Chemical Manufacturing,TX27
+NA,,1081,"Sterigenics Us, Llc - Ethylene Oxide Commercial Sterilization Plant",,Salt Lake City,Salt Lake,UT,84116,Sterilizer Rule,Commercial Sterilizer,UT2
+NA,,1082,Bd Medical,,Sandy,Salt Lake,UT,84070,Sterilizer Rule,Commercial Sterilizer,UT3
+NA,,1523,Kennecott - Copperton Concentrator And,,Copperton,Salt Lake,UT,84006,Copper Rule,primary copper smelting,UT4
+NA,,1202,Clover,Virginia Electric & Power Co,Randolph,Halifax,VA,23962,MATS,Coal Power Plant,VA5
+NA,Diff. Owner,1239,Virginia City Hybrid Energy Center,Virginia Electric & Power Co,Saint Paul,Wise,VA,24283,MATS,Coal Power Plant,VA9
+NA,,1478,Hercules Inc Aqualon Div,,Hopewell,Hopewell city City,VA,23860,HON Rule,Chemical Manufacturing,VA4
+NA,Unclear which one,1496,Carmeuse Lime And Stone (Clear Brook Plt.),"Carmeuse Lime, Inc.",Clear Brook,Frederick,VA,22624,Lime Rule,Lime Manufacturing,VA6
+NA,,1534,Jewell Coke Company Lp,SunCoke Energy,Oakwood,Buchanan,VA,24631,Coke Ovens Rule,Coke Ovens,VA9
+NA,,1152,Weston,Wisconsin Public Service Corp,Rothschild,Marathon,WI,54474,MATS,Coal Power Plant,WI7
+NA,,1230,Elm Road Generating Station,Wisconsin Electric Power Co,Oak Creek,Milwaukee,WI,53154,MATS,Coal Power Plant,WI1
+NA,,1148,Firstenergy Fort Martin Power Station,Monongahela Power Co,Maidsville,Monongalia,WV,26541,MATS,Coal Power Plant,WV2
+NA,,1149,Firstenergy Harrison Power Station,Monongahela Power Co,Shinnston,Harrison,WV,26431,MATS,Coal Power Plant,WV2
+NA,,1151,Mt Storm,Virginia Electric & Power Co,Mount Storm,Grant,WV,26739,MATS,Coal Power Plant,WV2
+NA,,1191,Mountaineer,Appalachian Power Co,Racine,Mason,WV,45771,MATS,Coal Power Plant,OH2
+NA,,1206,Jim Bridger,PacifiCorp,Point Of Rocks,Sweetwater,WY,82942,MATS,Coal Power Plant,WY0
+NA,,1227,Wygen 1,"Black Hills Power, Inc.",Rozet,Campbell,WY,82727,MATS,Coal Power Plant,WY0
+NA,,1234,Wygen Iii,"Black Hills Power, Inc.",Gillette,Campbell,WY,82717,MATS,Coal Power Plant,WY0
+NA,,1500,Tronox Westvaco,"Genesis Energy, L.P.",Green River,Sweetwater,WY,82935,Lime Rule,Lime Manufacturing,WY0
+REGISTRY ID,Comments,UID,Facility Name,Owner,City,County,State,Zipcode,Standard,Type of Facility,Congressional District
+,,1516,Lhoist North America Of Virginia Inc,LHOIST NORTH AMERICA OF VIRGINIA INC,Ripplemead,Giles,VA,24150,Lime Rule,Lime Manufacturing,VA9
